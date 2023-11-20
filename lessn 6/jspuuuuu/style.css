@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: plum;
+}
+
+/* #count{
+    text-align: center;
+}
+
+#click{
+    text-align: center;
+    text-decoration: red;
+}
+
+#reset{
+    text-align: center;
+    text-decoration: black;
+} */
+
+
+
